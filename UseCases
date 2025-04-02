@@ -23,5 +23,10 @@ Use Case : User joins a lobby with game id
 2.  User clicks join button.
 3.  User enters game id to join the lobby.
 
-
+Use Case : Player actions in a turn
+1.  Player awakes
+2.  Player discusses with others
+3.  Player votes for a player
+4.  Player sleeps
+4a. Player uses their ability
 
