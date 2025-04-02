@@ -1,0 +1,27 @@
+Use Case : User sign up
+1.  User runs the program and access the main menu.
+2.  User clicks "Sign Up" button.
+3.  User fills their informations and click button to create their account.
+4.  System sends a message that the user successfully signed up.
+
+Use Case : User login
+1.  User runs the program and access the main menu.
+2.  User clicks "Login" button.
+3.  User fills their informations and click button to login.
+4.  System sends a message that the user successfully logged in.
+5.  System shows user menu.
+
+Use Case : User creates a lobby
+1.  User clicks play button.
+2.  User clicks create button.
+3.  System creates a lobby and add the user as a player.
+4.  User configures game settings.
+5.  User clicks button to play game.
+
+Use Case : User joins a lobby with game id
+1.  User clicks play button.
+2.  User clicks join button.
+3.  User enters game id to join the lobby.
+
+
+
